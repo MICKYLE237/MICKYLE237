@@ -1,17 +1,19 @@
-### Hello Everybody welcome to my github page 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MICKYLE237&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MICKYLE237&hide_progress=false)
-<!--
-**MICKYLE237/MICKYLE237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm MICKY NGUELIEUGA!
 
-Here are some ideas to get you started:
+I'm a passionate Fullstack web developer with expertise in Laravel, PHP. I enjoy building robust applications, with a particular interest in SaaS solutions and AI-driven tools. With a strong background in backend development and a growing interest in full-stack projects, I aim to create efficient, user-friendly software that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools:
+
+Laravel, PHP, MySQL
+JavaScript (Vue.js, Node.js)
+HTML, CSS
+API Development (REST, Sanctum)
+Git & GitHub for version control
+📊 **GitHub Stats**:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MICKYLE237&show_icons=true&theme=radical)
+
+📈 **Top Languages**:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MICKYLE237&layout=compact&theme=radical)
+
