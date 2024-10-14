@@ -9,11 +9,7 @@ JavaScript (Vue.js, Node.js)
 HTML, CSS
 API Development (REST, Sanctum)
 Git & GitHub for version control
-📊 **GitHub Stats**:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MICKYLE237&show_icons=true&theme=radical)
-
-📈 **Top Languages**:
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MICKYLE237&layout=compact&theme=radical)
 
