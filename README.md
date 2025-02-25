@@ -11,6 +11,7 @@ Frontend: JavaScript (Vue.js, Node.js), HTML, CSS
 APIs: RESTful, Sanctum for authentication
 Version Control: Git, GitHub
 📈 Here are my GitHub stats:
+![WakaTime Stats](https://wakatime.com/badge/user/018eae11-09f2-4321-b78d-5e9d5173e328.svg)
 [![wakatime](https://wakatime.com/badge/user/018eae11-09f2-4321-b78d-5e9d5173e328.svg)](https://wakatime.com/@018eae11-09f2-4321-b78d-5e9d5173e328)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MICKYLE237&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MICKYLE237&layout=compact&theme=radical)
