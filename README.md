@@ -1,14 +1,16 @@
-👋 Hello, I'm MICKY NGUELIEUGA!
+👋 Hello, I’m MICKY NGUELIEUGA! 🚀
 
-I'm a passionate Fullstack web developer with expertise in Laravel, PHP. I enjoy building robust applications, with a particular interest in SaaS solutions and AI-driven tools. With a strong background in backend development and a growing interest in full-stack projects, I aim to create efficient, user-friendly software that solves real-world problems.
+I'm a passionate Fullstack Web Developer with strong expertise in Laravel and PHP, as well as Python with Django and Django Rest Framework. I enjoy building powerful, scalable, and intelligent applications that solve real-world problems. My focus is on creating SaaS solutions and AI-driven tools with intuitive interfaces and high performance. 💻
 
-🔧 Technologies & Tools:
+With a solid background in backend development and a growing interest in full-stack projects, I aim to deliver efficient, secure, and user-friendly software solutions that meet the real needs of users and businesses.
 
-Laravel, PHP, MySQL
-JavaScript (Vue.js, Node.js)
-HTML, CSS
-API Development (REST, Sanctum)
-Git & GitHub for version control
+🔧 Technologies & Tools I Work With:
+
+Backend: Laravel, PHP, MySQL, Python, Django, Django Rest Framework
+Frontend: JavaScript (Vue.js, Node.js), HTML, CSS
+APIs: RESTful, Sanctum for authentication
+Version Control: Git, GitHub
+📈 Here are my GitHub stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MICKYLE237&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MICKYLE237&layout=compact&theme=radical)
